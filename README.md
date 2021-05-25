@@ -9,6 +9,8 @@
 
 `ファイルを実行したいときは「Open_randomFile.vbs」`
 
-を[こちら](https://github.com/N-Kazu/Deep-Cave/releases)よりダウンロードしてください。
+を[こちら](https://github.com/N-Kazu/Open_RandomFolder/releases)よりダウンロードしてください。
 
 そしてダウンロードしたVBSファイルを該当の場所に配置しスクリプトを実行することで女神様が代わりに選んでくれます。
+
+Windowsであれば特にインストールなど不要で、実行するだけで使えます。
