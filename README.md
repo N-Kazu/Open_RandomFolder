@@ -5,9 +5,9 @@
 なんのゲームしようか迷ったときなど、運に任せてフォルダ(ファイル)選択をしたいときに実行して使います。
 
 ## 使い方
-`フォルダに実行したいときは「Open_RandomFolder.vbs」`
+`フォルダを実行したいときは「Open_RandomFolder.vbs」`
 
-`ファイルに実行したいときは「Open_randomFile.vbs」`
+`ファイルを実行したいときは「Open_randomFile.vbs」`
 
 を[こちら](https://github.com/N-Kazu/Deep-Cave/releases)よりダウンロードしてください。
 
